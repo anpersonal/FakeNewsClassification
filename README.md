@@ -15,11 +15,11 @@ The goal of this project was to:
 
 Two different files are provided:
 
-1. Neuman_1288753_Project2_Spacy_FINAL.ipynb
+1. Project2_Spacy_FINAL.ipynb
   
    This file contains the code that accomplishes the above goals for the Spacy Model.
    
-4. Neuman_1288753_Project2_BERT_FINAL.ipynb
+4. Project2_BERT_FINAL.ipynb
 
    This file contains the code that accomplishes the above goals for the BERT Model.
 
