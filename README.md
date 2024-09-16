@@ -22,3 +22,7 @@ Two different files are provided:
 4. Neuman_1288753_Project2_BERT_FINAL.ipynb
 
    This file contains the code that accomplishes the above goals for the BERT Model.
+
+# Notes
+
+A lot of the code for this task comes from various sources including the course notes, and a TensorFlow tutorial on text classification using BERT. I have taken these resources and made them fit my dataset. Thank you for all the publicly available resources.
